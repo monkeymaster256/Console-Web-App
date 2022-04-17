@@ -1,0 +1,14 @@
+h1{
+    font-size: 60;
+    font-weight: 500;
+    text-align: center;
+    color: darkmagenta;
+}
+p{
+    font-size: larger;
+text-align: center;
+color: lightskyblue;
+}
+body{
+    text-align: center;
+}
